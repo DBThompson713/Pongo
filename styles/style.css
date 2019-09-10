@@ -1,0 +1,42 @@
+html {
+  background-color: #222;
+  font-family: 'Orbitron', cursive;
+  color: #fff;
+}
+body {
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  margin: 5px 0;
+  line-height: 70%;
+}
+span {
+  margin-bottom: 5px;
+}
+
+#reset {
+  font-family: inherit;
+  border: none;
+  background: none;
+  text-transform: uppercase;
+  height: 100%;
+  color: #fff;
+  font-weight: normal;
+  letter-spacing: 1px;
+  font-size: 1.7rem;
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  outline: none;
+}
+
+#reset:hover {
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  color: steelblue;
+}
+canvas {
+  border: 2px solid #fff;
+}
