@@ -63,13 +63,6 @@ function ballReset() {
   ballY = canvas.height / 2;
 }
 
-//function reset() {
-//  humscore = 0;
-//  comscore = 0;
-//  humanscore.textContent = humScore;
-//  compscore.textContent = comScore;
-//}
-
 function drawEverything() {
   if (winScreen) {
     if ((humScore = WIN_SCORE)) {
