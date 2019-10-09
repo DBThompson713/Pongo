@@ -2,7 +2,9 @@
 
 A simple one person pong game made in HTML, CSS and JavaScript.
 
-A live running version can be found at: <a href="https://codepen.io/dbthompson713/live/aLvPdg">https://codepen.io/dbthompson713/live/aLvPdg</a>
+This game is not made for mobile.
+
+A live running version can be found at: <a href="https://dalethedev.com/pongo.html">DaleTheDev.com/pong0</a>
 
 <h3>Screencap</h3>
 
